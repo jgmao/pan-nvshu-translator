@@ -1,4 +1,4 @@
-# pan-nvshu-translator
+# womanese-translator
 ## translator
 1. The main translator could be getting from an open source translator like \
    https://github.com/LibreTranslate/LibreTranslate.git \
